@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ExpenseTracker",
+    "href": "https://voluble-parfait-773d88.netlify.app/",
+    "desc": "An expense-tracker application to keep track of your expenses ",
+    "github": "sperse",
+    "img": "expense.png",
+    "position": "",
+    "tools": ["react.png", "tailwind.png", "js.png", "postman.png", "vite.png"]
+  },
+  {
+    "name": "MultiSplayTree",
+    "href": "",
+    "desc": "It is an advance binary seacrh tree",
+    "github": "vision",
+    "img": "splay.png",
+    "position": "",
+    "tools": ["cimg.jpeg", "cplus.png"]
+  },
+  {
+    "name": "Gym-website",
+    "href": "",
+    "desc": "A A-Z Gym website",
+    "github": "snapshot",
+    "img": "gym.png",
+    "position": "",
+    "tools": ["react.png", "js.png", "postman.png", "vite.png", "tailwind.png"]
+  }
+]

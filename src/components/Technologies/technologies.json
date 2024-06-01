@@ -1,0 +1,68 @@
+[
+    {
+        "id": "js",
+        "title": "JavaScript",
+        "src": "js.png",
+        "classname": "javascript"
+    },
+    {
+        "id": "react",
+        "title": "React",
+        "src": "react.png",
+        "classname": "react"
+    },
+    {
+        "id": "ts",
+        "title": "TypeScript",
+        "src": "ts.png",
+        "classname": "typescript"
+    },
+    {
+        "id": "jq",
+        "title": "jQuery",
+        "src": "jquery.png",
+        "classname": "jquery"
+    },
+    {
+        "id": "bs",
+        "title": "Bootstrap",
+        "src": "bootstrap.png",
+        "classname": "bootstrap"
+    },
+    {
+        "id": "next",
+        "title": "Node JS",
+        "src": "node.png",
+        "classname": "next"
+    },
+    {
+        "id": "redux",
+        "title": "Mongo DB",
+        "src": "mongo.png",
+        "classname": "redux"
+    },
+    {
+        "id": "vue",
+        "title": "Java",
+        "src": "java.png",
+        "classname": "vue"
+    },
+    {
+        "id": "tw",
+        "title": "Tailwind",
+        "src": "tailwind.png",
+        "classname": "tailwind"
+    },
+    {
+        "id": "vt",
+        "title": "Vuetify",
+        "src": "vuetify.png",
+        "classname": "vuetify"
+    },
+    {
+        "id": "svelte",
+        "title": "C++",
+        "src": "cplus.png",
+        "classname": "svelte"
+    }
+]
